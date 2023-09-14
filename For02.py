@@ -6,5 +6,3 @@ def main(n):
     Returns:
         string: return  answer
     """
-
- 

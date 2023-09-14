@@ -1,5 +1,3 @@
-import py_compile
-
 
 def main(n):
     """
@@ -9,4 +7,6 @@ def main(n):
     Returns:
         list: return  answer
     """
-    return
+    v=list(range(0,n))
+    for d in v:
+        return v

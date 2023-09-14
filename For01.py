@@ -7,9 +7,10 @@ def main(n):
     Returns:
         list: return  answer
     """
-    d
+    d=0
     v=list(range(d,n))
     for d in v:
         return v 
+
 
 

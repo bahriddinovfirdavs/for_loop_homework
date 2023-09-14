@@ -9,4 +9,4 @@ def main(n):
     """
     v=list(range(0,n))
     for d in v:
-        return v
+        return v 

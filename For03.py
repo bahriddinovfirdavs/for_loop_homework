@@ -7,4 +7,7 @@ def main(k,n):
     Returns:
         list: return  answer
     """
-    return
+    d=0
+    v=[k]
+    for d in v:
+        return v*n

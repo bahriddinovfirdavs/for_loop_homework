@@ -6,4 +6,7 @@ def main(n):
     Returns:
         string: return  answer
     """
-    return
+    d=0
+    v=list(range(d,n))
+    for d in v:
+        return v 

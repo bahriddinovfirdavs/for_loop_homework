@@ -9,5 +9,5 @@ def main(n):
     s=""
     for i in range(n):
         s=i+","
-        s=s-s[-1]
+    s-=s[-1]
     return s

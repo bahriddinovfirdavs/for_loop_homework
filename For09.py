@@ -6,4 +6,8 @@ def main(price):
     Returns:
         list: return  answer
     """
-    return
+    
+    for i in range(price):
+        a=i+1
+    return a
+print(main(int(input())))

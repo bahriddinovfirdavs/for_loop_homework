@@ -7,7 +7,10 @@ def main(price):
         list: return  answer
     """
     
-    for i in range(price):
-        a=i+1
-    return a
-print(main(int(input())))
+    s=[]
+    for i in range(1,11):
+        s+=[price*i]
+    return s
+    
+
+ 

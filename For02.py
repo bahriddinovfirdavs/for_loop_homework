@@ -11,4 +11,3 @@ def main(n):
         s=i+","
         s=s-s[-1]
     return s
-print(main([4]))

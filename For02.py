@@ -8,6 +8,7 @@ def main(n):
     """
     s=""
     for i in range(n):
-        s=i+","
-    s-=s[-1]
-    return s
+        s+=str(i)+","
+        
+    return s[:-1]
+

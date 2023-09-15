@@ -11,4 +11,5 @@ def main(N):
         s+=i
     return s
 
+
     
